@@ -1,6 +1,6 @@
 ---
 title: SAIBR
-description: A simple GUI-based protocol and FIJI plugin for spectral autofluorescence correction
+description: A simple protocol and FIJI plugin for spectral autofluorescence correction
 categories: [Color Processing]
 ---
 
